@@ -1,0 +1,19 @@
+#bg {
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+    
+}
+
+.centeredImage {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 439px;
+    margin-top: -218px;
+    margin-left: -300px;
+}
